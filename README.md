@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minula Vihanga.</h1>
 <h3 align="center">Passionate IT Student | Exploring the World Full of Technologies</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=admv2001&label=Profile%20views&color=0e75b6&style=flat" alt="admv2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minulavihanga2001&label=Profile%20views&color=0e75b6&style=flat" alt="minulavihanga2001" /> </p>
 <hr>
 
 - I’m currently learning **Java, JavaScript and MERN Stack.**
 
-- All of my projects are available at [https://github.com/ADMV2001](https://github.com/ADMV2001)
+- All of my projects are available at [https://github.com/minulavihanga2001](https://github.com/minulavihanga2001)
 
 - I'm an undergraduate of Software Engineering at **NSBM Green University.**
 
@@ -27,7 +27,6 @@
 <h1 align="center">My GitHub Statistics</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=admv2001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=79ff97" alt="admv2001" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=admv2001&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&ring=79ff97&fire=79ff97&currStreakLabel=ffffff" alt="admv2001" />
+    <img src="https://github-readme-stats.vercel.app/api?username=minulavihanga2001&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=ffffff&icon_color=79ff97" alt="minulavihanga2001" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minulavihanga2001&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&ring=79ff97&fire=79ff97&currStreakLabel=ffffff" alt="minulavihanga2001" />
 </p>
-
